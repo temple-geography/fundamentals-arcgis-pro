@@ -1,16 +1,8 @@
 # GUS-3062/5062-Fundamentals of Geographic Information systems
-## Lab 1. Introduction of GIS
-Introduction of myself, 
-My background and research
-The introduction of the course and syllabus
+## Lab 1. Introduction of ArcGIS Pro([link](Lab_01_Introduction_to_ArcGIS-edit.md))
+
 
 ## Lab 2. Projections and Coordinate Systems
-
-1. Install Anaconda ([Link](https://github.com/xiaojianggis/GUS-5073-Geovisualization/blob/master/lecture2-catography-nutshell_1/AnacondaConfig.pdf)) 
-
-2. Be familar with Jupyter Notebook ([link](https://github.com/xiaojianggis/GUS-5073-Geovisualization/blob/master/lecture2-catography-nutshell_1/Notebook-tutorial.md))
-
-3. Basics of Python programing ([Link](https://github.com/xiaojianggis/GUS-5073-Geovisualization/blob/master/lecture2-catography-nutshell_1/PythonBasic.ipynb))
 
 
 ## Lab. 3: Thematic Cartography
