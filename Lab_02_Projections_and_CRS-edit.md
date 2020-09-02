@@ -32,7 +32,7 @@ Search for and download the following data from [PASDA
     government. A municipality may be a city, town, borough, village, or
     something else, with different states having slightly different
     terminology.
-  - The Philadelphia Streets Centerline 2016 data contributed by the
+  - The Philadelphia Streets Centerline data contributed by the
     City of Philadelphia.
 
 For the Natural Earth data, start at the [Natural Earth Features
@@ -69,17 +69,14 @@ workspace folder. Unzip all of the zip files.
     **Properties**.
 6.  In the **Layer Properties** box, click on the **Source** tab, and then 
     click on the arrow to expand the **Spatial Reference** section. This contains information on the projection and coordinate system for the data file. Note the top line that specfies the Projected coordinate system: 
-    `NAD 1983 StatePlane Pennsylvania South FIPS 3702 (US Feet)`.
-    This is a code indicating the data file is in the Pennsylvania State
-    Plane South CRS. Other information below indicates the specific
-    parameters for this CRS, i.e. the specific projection used (Lambert
-    Conformal Conic), the datum used (North American 1983), and so on.
+    `WGS 1984`.
+    This is a code indicating the data file is in the WGS84. Other information below indicates the specific
+    parameters for this CRS, i.e. the datum used (D WGS 1984), the angular unit (degree) and so on.
 7.  Because the software has encoded the CRS information we say the
     projection and coordinate system are 'defined'.
 8.  Close the **Layer Properties** box.
 9.  Look to the bottom right corner of the map window. It should 
     show the coordinate position of the mouse in feet. This is the coordinate position in Pennsylvania State Plane. As you move the mouse, the coordinate position will change.  
-    ![](images/lab2_fig1.png)
 10. Insert a new map and add the municipalities data file to the map. 
     Note this data
     set covers a much larger area than only Philadelphia, which is only
