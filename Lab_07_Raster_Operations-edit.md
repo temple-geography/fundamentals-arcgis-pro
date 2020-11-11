@@ -428,7 +428,7 @@ impervious surface.
     cover data, above, but instead of the land cover data download the
     2016 CONUS Impervious Surface data for the study area).
     The value of each grid cell in the impervious surface grid is the
-    percentage of the grid cell covered by impervious surface. The pixel values should be scaled by 10 to represent the percentage of the impervious surface. If you explore the raster data, you may find the those pixels with values of 10 are highways. This is because the highways are total impervious, therefore the percentage is 100%. Mask the impervious surface data to Delaware County, and convert it to the
+    percentage of the grid cell covered by impervious surface. The pixel values should be scaled by 10 to represent the percentage of the impervious surface. If you explore the raster data, you may find the those pixels with values of 10 are highways. This is because the highways are totally impervious, therefore the percentage is 10x10, 100%. Mask the impervious surface data to Delaware County, and convert it to the
     UTM CRS.
 
 2.  Use the elevation grid and the hillshade grid you created, in
