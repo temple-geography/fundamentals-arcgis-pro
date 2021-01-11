@@ -12,7 +12,7 @@ following the tutorial.
 
 # TUTORIAL
 ## Prepare the ArcGIS Pro
-In this class, we are going to use the commercial GIS desktop ArcGIS Pro for the lab, although there are some other open-sourced options, like [QGIS](https://qgis.org/en/site/). Personally I really like to use [QGIS](https://qgis.org/en/site/), because it is free and available on both Windows and Mac. You can access ArcGIS Pro through the university's computer or install the ArcGIS Pro on your own computer (prefered). 
+In this class, we are going to use the commercial GIS desktop ArcGIS Pro for the lab, although there are some other open-sourced options, like [QGIS](https://qgis.org/en/site/). You can access ArcGIS Pro through the university's computer or install the ArcGIS Pro on your own computer (preferred). 
 
 1. **Install ArcGIS Pro on your computer**: It is fairly easy for you to obtain ArcGIS to load on your personal machine. If at all possible, that's the easiest, fastest, most hassle-free option. Regardless, to install your own version, you need a Window OS. Typically, that would mean that you have a PC. But if you have a Mac, depending on the hardware, you can create a Windows partition and install ArcGIS Pro to it. I've never done it, but I've had students succeed by getting help at the TU HelpDesk. 
 ArcGIS Pro and Desktop are available for self-service download and install by anyone (including all students) with a valid @temple.edu (Links to an external site.) address. To Download and install ArcGIS from the ArcGIS Online portal:
@@ -20,7 +20,7 @@ ArcGIS Pro and Desktop are available for self-service download and install by an
 - Click on your User Account Icon in the top right
 - Click My Settings > Licenses > Download ArcGIS Pro
 
-2. **Access the university's computer**. If for some reason you cannot install ArcGIS on your own machine or if you would prefer to access remotely, go to  remotelabs.temple.edu. Before you do, it's worthwhile to look over these instructions:  https://its.temple.edu/remote-labs. If you have any trouble accessing the Remote Labs, let me know: xiaojiang.li@temple.edu, or contact the desk help [**link**](https://its.temple.edu/technical-support). 
+2. **Access the university's computer**. If for some reason you cannot install ArcGIS on your own machine or if you would prefer to access remotely, go to  remotelabs.temple.edu. Before you do, it's worthwhile to look over these instructions:  https://its.temple.edu/remote-labs. If you have any trouble accessing the Remote Labs, please contact your instructor or contact the desk help [**link**](https://its.temple.edu/technical-support). 
 
 
 
