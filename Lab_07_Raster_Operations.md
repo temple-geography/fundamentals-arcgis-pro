@@ -39,7 +39,7 @@ federal data geoportal administered by the US Geological Survey (USGS).
     > Products (3DEP)** and then check the box for **1 arc-second DEM**.
     > Uncheck the other boxes.
 
-![](imageslab7_fig1.png)
+![](images/lab7_fig1.png)
 
 3.  > In the Search location text bar type in 'Delaware County,
     > Pennsylvania' and zoom to Delaware County.
