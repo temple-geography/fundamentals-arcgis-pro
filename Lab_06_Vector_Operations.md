@@ -276,7 +276,7 @@ feature for a target feature.  The default choice is 'First', which simply
 takes the first point within the polygon that the algorithm comes to.  You 
 can also choose 'Count', which would total the number of points that fall within the polygon. 
 
-![](images/field_map_join_features.png)
+    ![](images/field_map_join_features.png)
 4. Change the **Merge Rule** for the `Line_Name` attribute to 'Count', and for the rest of the attributes leave the default choice of 'First'. Click Run.
 
 5.  View the new shapefile and open its attribute table. You should see that the `Line_Name` attribute contains the number of regional rail station points that fall within each county polygon. The other attributes contain their corresponding data from the first matching point in each county. Most counties
@@ -307,7 +307,7 @@ lines to the empowerment zones polygons.
 4.  View the new shapefile, which should include only the bus routes
     within the empowerment zones polygons. It may be helpful to turn off
     the original bus routes layer.  
-    ![](images/lab9_fig10.png) 
+    ![](images/lab6_fig10.png) 
 5.  Open the attribute tables for the original bus routes layer and the
     new clipped bus routes layer. Note that they have the identical set
     of fields.

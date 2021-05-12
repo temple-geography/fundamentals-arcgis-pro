@@ -129,7 +129,7 @@ such as **Double** and **Float**.
 Hover over the name of the `GEOID2` field to get some information about
 the field.  Note the data type, which is double (a numeric type).
 
-![](images/Lab4_fig5.png) 
+![](images/lab4_fig5.png) 
 
 Now open the Total\_Population table. Find the `GEOID_1` field. This
 field is also a unique identifier for each tract. Even though the name

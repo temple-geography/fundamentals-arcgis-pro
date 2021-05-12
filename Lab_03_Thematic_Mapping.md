@@ -265,7 +265,7 @@ the population density to make them easier to read.
 
 4.  Open the symbology for the states layer and click on the **Advanced 
     symbol options** tab. Expand the **Format labels** section.
-    ![](images/advanced_symbol_options.jpg)
+    ![](images/advanced_symbol_options.png)
 5.  Under **Rounding**, change the number of decimal places to 5.
 
 Notice the change in the both the **Contents** pane and the legend.
