@@ -647,7 +647,7 @@ you interactively digitize (draw) as part of the selection process.
 You can also select features based on their spatial relationship to
 another feature, such as the distance between features or whether one
 feature contains another feature. As an example we will select schools
-located within 500 feet of the bike network.
+located within 250 feet of the bike network.
 
 1.  Turn on the schools and bike network layers (neighborhoods should be
     off).
