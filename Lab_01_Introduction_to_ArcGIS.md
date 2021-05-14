@@ -32,8 +32,9 @@ ArcGIS Pro and Desktop are available for self-service download and install by an
     'your workspace' here, you can think of it as 'your Lab1 data
     folder'. Using the term 'workspace' is more concise, and when you
     become a more advanced GIS user, setting the workspace becomes an
-    important part of automating complex processes. If you have a flash
-    drive, create a new workspace folder named 'Lab1'. If you do not
+    important part of automating complex processes. If you are working
+    on campus on a TU computer, it is best to use a USB flash
+    drive and create a new workspace folder named 'Lab1'.  If you do not
     have a flash drive create a new folder in the Documents folder. (On
     the Temple lab computers, Documents is located at
     C:\\data\\Documents.) For future labs, create new workspace folders
@@ -48,9 +49,12 @@ ArcGIS Pro and Desktop are available for self-service download and install by an
     Pennsylvania State University. PASDA hosts data provided by local
     governments, federal and state agencies, nonprofits, and academic
     institutions.
-3.  Go to <http://www.pasda.psu.edu>. Under 'SEARCH BY KEYWORD(S)' enter
-    'Philadelphia' and press submit.
-4.  Find 2016 Philadelphia Planning - Schools, click on the link, press
+3.  Go to <http://www.pasda.psu.edu>. NOTE: in the center of the PASDA home page, you will see, in red font, "Alert: Problem downloading files in some browsers. Click for more information". If you click on a file to download it and nothing happens, follow this link for instructions on making changes to how your browswer interacts with PASDA's ftp server. This may happen if you are using either the Google Chrome or the MS Edge browswer.
+   ![This is an image of the PASDA homescreen. If you are unable to download files, click the Alert (circle).](images/lab1_fig0.png)
+
+4.  Under 'SEARCH BY KEYWORD(S)' enter
+    'Philadelphia' and press submit. 
+     Find 2016 Philadelphia Planning - Schools, click on the link, press
     'Download', which will download a file.
 5.  In addition to schools, find and download the following:
       - 2016 Philadelphia Streets - Bike Network
