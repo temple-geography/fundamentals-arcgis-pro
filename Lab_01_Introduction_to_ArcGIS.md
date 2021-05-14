@@ -50,7 +50,7 @@ ArcGIS Pro and Desktop are available for self-service download and install by an
     governments, federal and state agencies, nonprofits, and academic
     institutions.
 3.  Go to <http://www.pasda.psu.edu>. NOTE: in the center of the PASDA home page, you will see, in red font, "Alert: Problem downloading files in some browsers. Click for more information". If you click on a file to download it and nothing happens, follow this link for instructions on making changes to how your browswer interacts with PASDA's ftp server. This may happen if you are using either the Google Chrome or the MS Edge browswer.
-! [](images/lab1_fig0.png)
+![](images/lab1_fig0.png)
 
 4.  Under 'SEARCH BY KEYWORD(S)' enter
     'Philadelphia' and press submit. 
