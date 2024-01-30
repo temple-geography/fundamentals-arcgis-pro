@@ -61,8 +61,8 @@ workspace folder. Unzip all of the zip files.
 2.  On the **View** tab on the ribbon, click the **Catalog** pane. The      **Catalog** pane
     has similar functionality to the catalog view, in a more compact side 
     pane that does not obstruct an active layout or map view. 
-3.  In the **Catalog** pane, navigate to your workspace folder.  Add the    
-    PhiladelphiaStreetCenterlines2016.shp shapefile to your map by dragging the file to the **Contents** pane or the map window (either will have the same effect). Remove the basemap layers from your map.
+3.  In the **Catalog** pane, navigate to your workspace folder.  Add the 
+    PhiladelphiaStreetCenterlines2022.shp shapefile to your map by dragging the file to the **Contents** pane or the map window (either will have the same effect). Remove the basemap layers from your map.
 4.  Zoom in and explore the streets data – you can see the individual
     street segments.
 5.  Right click on the streets layer on the **Contents** pane and go to 
@@ -76,7 +76,7 @@ workspace folder. Unzip all of the zip files.
     projection and coordinate system are 'defined'.
 8.  Close the **Layer Properties** box.
 9.  Look to the bottom right corner of the map window. It should 
-    show the coordinate position of the mouse in feet. This is the coordinate position in Pennsylvania State Plane. As you move the mouse, the coordinate position will change.  
+    show the coordinate position of the mouse in feet. This is the coordinate position in Pennsylvania State Plane. As you move the mouse, the coordinate position will change. 
 10. Insert a new map and add the municipalities data file to the map. 
     Note this data
     set covers a much larger area than only Philadelphia, which is only
